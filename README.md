@@ -15,32 +15,6 @@ I'm developing toward roles in **data analytics, analytics engineering, business
 - **Business intelligence projects** — expanding into Power BI, DAX, Excel, Microsoft Fabric, and Databricks through practical, business-focused use cases.
 - **AI-enabled automation** — experimenting with workflows that connect business data, cloud databases, external services, and conversational interfaces.
 
-## Featured work
-
-### [Data Analytics Portfolio](https://github.com/stharesh/data-analytics)
-
-An evolving analytics portfolio currently featuring MySQL sales analysis, dimensional data modeling, forecast-accuracy analysis, reusable SQL, and query optimization. It will also become the home for selected Python, Power BI, Excel, Fabric, and Databricks projects.
-
-### [Automated Supply Chain Analytics](https://github.com/stharesh/automated-supply-chain-analytics)
-
-An automated workflow that collects regional sales CSV files from Gmail, processes them with n8n, loads them into Supabase/PostgreSQL, and makes the data available to Quadratic AI for KPI exploration and business insights. It also uses live exchange-rate data for currency conversion.
-
-### [BigQuery Release Hub](https://github.com/stharesh/bigquery-release-hub)
-
-An AI-assisted dashboard for browsing, searching, filtering, and sharing Google Cloud BigQuery release updates.
-
-### [TaxClarity](https://github.com/stharesh/tax-calculator-app)
-
-A guided Indian income-tax estimator for FY 2025–26 that compares the Old and New Regimes and produces downloadable PDF summaries.
-
-### [Focus Buddy](https://github.com/stharesh/focus-buddy)
-
-A privacy-first browser focus companion that provides real-time feedback for drowsiness, face touching, and objects held near the face.
-
-### [Digital Wedding Invitation](https://github.com/stharesh/digital-wedding-invitation)
-
-A personalized digital invitation with animated storytelling, event details, venue media, and RSVP collection.
-
 ## Skills and tools
 
 **Analytics:** SQL, MySQL, PostgreSQL, data modeling, exploratory analysis, KPI design, forecast accuracy, query optimization  
