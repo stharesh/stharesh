@@ -11,17 +11,21 @@ I'm developing toward roles in **data analytics, analytics engineering, business
 ## Currently building
 
 - **Conversational analytics with Gemini and PostgreSQL** — a chat-based workflow that converts natural-language business questions into SQL, retrieves data from Supabase, and returns answers such as top customers, sales totals, and other operational insights.
-- **Python analytics projects** — using Python for data preparation, exploration, visualization, and repeatable analysis.
+- **Python analytics** — completed a hospitality revenue and occupancy analysis using Pandas and Matplotlib across 134,590 booking records, while continuing to build more business-focused Python projects.
 - **Business intelligence projects** — expanding into Power BI, DAX, Excel, Microsoft Fabric, and Databricks through practical, business-focused use cases.
 - **AI-enabled automation** — experimenting with workflows that connect business data, cloud databases, external services, and conversational interfaces.
 
 ## Skills and tools
 
-**Analytics:** SQL, MySQL, PostgreSQL, data modeling, exploratory analysis, KPI design, forecast accuracy, query optimization  
-**Building now:** Python, Power BI, DAX, Excel, Microsoft Fabric, Databricks  
-**Automation and data platforms:** n8n, Supabase, APIs, Quadratic AI  
-**AI-enabled development:** Gemini, conversational analytics, AI-assisted product development  
-**Product development:** React, JavaScript, Flask, Vite
+- **Analytics:** Python, Pandas, Matplotlib, SQL, MySQL, PostgreSQL, data modeling, exploratory analysis, KPI design, forecast accuracy, query optimization
+- **Building now:** Power BI, DAX, Excel, Microsoft Fabric, Databricks
+- **Automation and data platforms:** n8n, Supabase, APIs, Quadratic AI
+- **AI-enabled development:** Gemini, conversational analytics, AI-assisted product development
+- **Product development:** React, JavaScript, Flask, Vite
+
+## Featured project
+
+- [**Hospitality Domain Analytics**](https://github.com/stharesh/hospitality-domain-analytics) — an exploratory Python analysis of hotel bookings, occupancy, realized revenue, room categories, cities, and booking platforms. The repository demonstrates data cleaning, transformation, aggregation, table joins, and visualization with Pandas and Matplotlib.
 
 ## How I approach projects
 
