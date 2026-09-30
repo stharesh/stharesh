@@ -4,17 +4,6 @@ I build practical data analytics solutions and AI-enabled digital products that 
 
 My portfolio is growing across **SQL, Python, Power BI, Excel, data automation, analytics engineering, and generative AI**. I focus on the business problem, the end-to-end workflow, and the value delivered—not just the tools used.
 
-## What I'm working toward
-
-I'm developing toward roles in **data analytics, analytics engineering, business intelligence, and AI-enabled analytics**. My long-term focus is connecting reliable data pipelines, analytical thinking, and AI interfaces so people can explore data and act on it more easily.
-
-## Currently building
-
-- **Conversational analytics with Gemini and PostgreSQL** — a chat-based workflow that converts natural-language business questions into SQL, retrieves data from Supabase, and returns answers such as top customers, sales totals, and other operational insights.
-- **Python analytics projects** — using Python for data preparation, exploration, visualization, and repeatable analysis.
-- **Business intelligence projects** — expanding into Power BI, DAX, Excel, Microsoft Fabric, and Databricks through practical, business-focused use cases.
-- **AI-enabled automation** — experimenting with workflows that connect business data, cloud databases, external services, and conversational interfaces.
-
 ## Skills and tools
 
 **Analytics:** SQL, MySQL, PostgreSQL, data modeling, exploratory analysis, KPI design, forecast accuracy, query optimization  
